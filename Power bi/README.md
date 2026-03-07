@@ -1,6 +1,6 @@
 # Панель данных о вакансиях
 
-![Project1](https://github.com/user-attachments/assets/be5c2aa0-204c-47cf-b17a-1abd04cb8389)
+![Project1](https://github.com/user-attachments/assets/2029d8e4-6cc8-427a-af67-79b416489a47)
 
 # Введение
 
